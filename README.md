@@ -50,8 +50,8 @@ Our project offers a distributed soloution for analyzing big graphs, Our project
 Open folder and terminal for the 'master' node, open a folder and terminal for each one of the submasters.
 in each terimnal write:
 ```sh
-git clone https://github.com/or-erez/BSP_Project
-cd BSP_Project
+git clone https://github.com/JonathanKarin/Graph-BSP
+cd Graph-BSP
 ```
 
 <h3>Submaster: </h3>
